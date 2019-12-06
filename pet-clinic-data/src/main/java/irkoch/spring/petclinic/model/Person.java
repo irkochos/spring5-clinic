@@ -1,4 +1,4 @@
-package irkoch.spring.irkochpetclinic.model;
+package irkoch.spring.petclinic.model;
 
 public class Person {
 
